@@ -1,0 +1,12 @@
+[submodule "additive"]
+	path = repos/additive
+	url = git@github.com:skywardmc/additive.git
+[submodule "simply_optimized"]
+	path = repos/simply_optimized
+	url = git@github.com:mbledkowski/simply_optimized.git
+[submodule "mods/meteor_client"]
+	path = repos/meteor_client
+	url = git@github.com:MeteorDevelopment/meteor-client.git
+[submodule "baritone"]
+	path = repos/baritone
+	url = git@github.com:cabaletta/baritone.git

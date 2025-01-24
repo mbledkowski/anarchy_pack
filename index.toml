@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "fa5aeb4b2a7099ab28c4d2751f2b053fc42401c46162b7e3f579ffc5198a0489"
+metafile = true
