@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "783f6391e53272943cce060fd820d1c5b7cbdf94df1341f250bf09eaa296171c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "4c4aa73a3c39122d34c95ca5d2b60c26c81aced32760bde7bb3b9c0dfdfa646c"
+metafile = true
+
+[[files]]
+file = "mods/fishing-ruler.pw.toml"
+hash = "aeac761eeb8f6c128ea41d371bf95797075fd7d36ddd8b35dc24067c2de29ec4"
+metafile = true
+
+[[files]]
 file = "mods/viafabricplus.pw.toml"
 hash = "fa5aeb4b2a7099ab28c4d2751f2b053fc42401c46162b7e3f579ffc5198a0489"
 metafile = true
