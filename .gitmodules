@@ -9,4 +9,4 @@
 	url = git@github.com:MeteorDevelopment/meteor-client.git
 [submodule "baritone"]
 	path = repos/baritone
-	url = git@github.com:cabaletta/baritone.git
+	url = git@github.com:MeteorDevelopment/baritone.git
