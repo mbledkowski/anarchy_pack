@@ -1,6 +1,6 @@
 name = "Anarchy Pack"
 author = "Maciej @yungbruh1337 Błędkowski"
-version = "0.1.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
