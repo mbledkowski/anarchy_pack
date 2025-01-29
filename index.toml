@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "783f6391e53272943cce060fd820d1c5b7cbdf94df1341f250bf09eaa296171c"
 metafile = true
@@ -16,6 +26,16 @@ hash = "aeac761eeb8f6c128ea41d371bf95797075fd7d36ddd8b35dc24067c2de29ec4"
 metafile = true
 
 [[files]]
+file = "mods/health-indicators.pw.toml"
+hash = "5ef73312f1a9240f872592f9caef2c616a6b336187beb7cd18c5f6c2bfd5e00a"
+metafile = true
+
+[[files]]
 file = "mods/viafabricplus.pw.toml"
 hash = "fa5aeb4b2a7099ab28c4d2751f2b053fc42401c46162b7e3f579ffc5198a0489"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "4b7c266cf6c560aec780394f515cbe880c72fb07286f60694823fde3b926f184"
 metafile = true

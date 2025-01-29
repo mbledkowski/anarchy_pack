@@ -1,0 +1,13 @@
+name = "Health Indicators"
+filename = "HealthIndicators-21.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/htkVd6dQ/versions/hNCCIw1X/HealthIndicators-21.2.1.jar"
+hash-format = "sha512"
+hash = "a1df88e8f7608dd2631d7958fea26aada90322be68844cc7de8aa7bb21bb4ee9f5764ea49b926cd71ef5d0a6c558dc69779a3ee431f63f3f90495fb19bcf43cb"
+
+[update]
+[update.modrinth]
+mod-id = "htkVd6dQ"
+version = "hNCCIw1X"
